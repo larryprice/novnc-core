@@ -22,6 +22,10 @@ import RFB from 'novnc-browser'
 
 ```
 
+### Copyright ###
+
+See [LICENSE.txt](LICENSE.txt) for a full accounting of the licensing of the core files. Assume that this repository/package is _Copyright (C) 2017 Larry Price_ under the Mozilla Public License 2.0, but the code itself retains the copyrights of the parent codebase.
+
 ### Version History ###
 
 * 0.1.0
