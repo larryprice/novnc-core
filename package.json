@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:larryprice/novnc-core.git"
+  },
   "author": "Larry Price <larry.price.dev@gmail.com>",
   "license": "MPL 2.0"
 }
