@@ -88,4 +88,4 @@ See [LICENSE.txt](LICENSE.txt) for a full accounting of the licensing of the cor
 ### Version History ###
 
 * 0.1.0
- * Maps to noVNC/noVNC a5c366b
+  * Maps to noVNC/noVNC a5c366b
