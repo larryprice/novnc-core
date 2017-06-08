@@ -4,7 +4,7 @@ This is the result of running the following command on [noVNC](https://github.co
 ./utils/use_require.js --as commonjs
 ```
 
-The long-term goal is to automatically publish this package as the master branch of noVNC is updated.
+Updates are automatically published daily (as necessary, when my computer is on) using [noVNC-core-autopublish](https://github.com/larryprice/novnc-core-autopublish).
 
 ### Usage ###
 
