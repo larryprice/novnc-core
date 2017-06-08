@@ -89,3 +89,5 @@ See [LICENSE.txt](LICENSE.txt) for a full accounting of the licensing of the cor
 
 * v0.1.0
   * Maps to noVNC/noVNC a5c366b834cbeb8e89406e0374e2a0903cedfbe8
+* v0.1.1
+  * Maps to noVNC/noVNC 55b459b47961e2ca2eb125408a1ddc60d0251457
