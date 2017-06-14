@@ -17,7 +17,7 @@ $ npm install --save novnc-core
 To use:
 
 ``` javascript
-import RFB from 'novnc-browser'
+import RFB from 'novnc-core'
 
 /*
  RFB supports the following values on init with the given defaults:
