@@ -1,6 +1,6 @@
 {
   "name": "novnc-core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "noVNC core files for using with node",
   "main": "index.js",
   "scripts": {
