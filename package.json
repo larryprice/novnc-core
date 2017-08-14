@@ -1,6 +1,6 @@
 {
   "name": "novnc-core",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "noVNC core files for using with node",
   "main": "lib/rfb.js",
   "scripts": {
