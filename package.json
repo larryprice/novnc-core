@@ -2,7 +2,7 @@
   "name": "novnc-core",
   "version": "0.1.2",
   "description": "noVNC core files for using with node",
-  "main": "index.js",
+  "main": "lib/rfb.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
