@@ -56,3 +56,5 @@ See [LICENSE.txt](LICENSE.txt) for a full accounting of the licensing of the cor
   * Maps to noVNC/noVNC 35dd3c2299b3e13e2b57a2a34be723fb01014ee3
 * v0.2.1
   * Modify v0.2.0 to remove let keyword
+* v0.2.2
+  * Maps to noVNC/noVNC 18439b0680811f175e39ce381d0faa138f868d3c
