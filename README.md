@@ -4,7 +4,7 @@ This is the result of running the following command on [noVNC](https://github.co
 ./utils/use_require.js --as commonjs
 ```
 
-Updates are automatically published weekly (as necessary, when my computer is on) using [noVNC-core-autopublish](https://github.com/larryprice/novnc-core-autopublish).
+Updates are no longer published weekly, but originally were done so via [noVNC-core-autopublish](https://github.com/larryprice/novnc-core-autopublish).
 
 ### Usage ###
 
@@ -19,7 +19,6 @@ To use:
 ``` javascript
 import RFB from 'novnc-core'
 
-/*
 try {
   var rfb = new RFB(document.getElementById('noVNC-canvas'), url);
 } catch (exc) {
